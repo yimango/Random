@@ -2,7 +2,7 @@ import random
 player1_position = 1
 player2_position = 1
 
-print("sta")
+print("start")
 
 def after_move1(): 
     global player1_position
