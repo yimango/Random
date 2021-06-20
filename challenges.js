@@ -1,4 +1,4 @@
-// day 2 of code every day. Mix of practice questions
+// set of answers to various different coding challanges
 
 // find the derivitive of the function f(x)=m^b for some integral values of m and b
 function derivitive(b, m){
